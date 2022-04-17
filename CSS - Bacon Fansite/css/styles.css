@@ -1,0 +1,20 @@
+img:hover{
+    background-color: gold;
+}
+
+img{
+    background-color: blue;
+}
+
+h1 {
+    color: red;
+}
+/*Classes*/
+.p1 {
+    color: pink
+}
+/*Id*/
+#heading {
+    color:blue
+}
+
